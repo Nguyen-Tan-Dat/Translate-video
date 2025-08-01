@@ -40,3 +40,7 @@ translate
 # YouTube downloader / transcript
 yt-dlp~=2025.7.21
 youtube-transcript-api
+
+
+pip install -r requirements.txt
+
